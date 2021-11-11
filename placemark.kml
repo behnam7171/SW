@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Placemark>
-    <name>My SW</name>
-    <description>This is Amsterdam.</description>
+    <name>My office</name>
+    <description>This is the location of my office.</description>
     <Point>
-      <coordinates>37.06,-95.68</coordinates>
+      <coordinates>-122.087461,37.422069</coordinates>
     </Point>
   </Placemark>
 </kml>
